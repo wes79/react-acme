@@ -1,3 +1,4 @@
+/*	MAIN STYLING	*/
 body.index{
 	padding: 0;
 	background-color: #C8CEC2;
@@ -43,6 +44,8 @@ h1:after{
 	bottom: -10px;
 	left: 0px;
 }
+/*	SECTION  ABOUT STYLING	*/
+
 section{
 	padding: 40px 20px;
 }
@@ -85,6 +88,8 @@ section{
 .globe{
 	width: 100%;
 }
+/*	SECTION TEAM STYLING	*/
+
 .team{
 	background: #323D4F;
 	color: #C8CEC2;
@@ -110,6 +115,7 @@ section{
 	left: 50%;
 	transform: translateX(-50%);
 }
+/*	SECTION HIRE STYLING	*/
 .employee-list{
 	background: #C8CEC2;
 	padding-left: 5px;
